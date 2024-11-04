@@ -1,0 +1,12 @@
+header{
+height: 88px; 
+background-image: url(banner.jpg);
+}
+body{font-family: Courier;
+background-color: pink ;
+text-align: center;
+color: green;
+}
+
+h1 { font-family: Garamond; }
+
